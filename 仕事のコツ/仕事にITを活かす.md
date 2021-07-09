@@ -28,4 +28,5 @@ UX/UIレビューサービス
 
 ![カスタマージャーニーマップ例](/Users/mio/Documents/GitHub/pNote/仕事のコツ/CustomerJourneyMap_DL_rev1.jpeg)
 
-![CustomerJourneyMap_DL_rev1](/Users/mio/Documents/GitHub/pNote/仕事のコツ/CustomerJourneyMap_DL_rev1.jpeg)
+![CustomerJourneyMap_DL_rev1](CustomerJourneyMap_DL_rev1.jpeg)
+
