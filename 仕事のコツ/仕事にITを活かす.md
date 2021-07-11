@@ -35,3 +35,8 @@ ITの（またはICTの）活用というと、その導入本や解説本の多
 ![CustomerJourneyMap_DL_rev1](CustomerJourneyMap_DL_rev1.jpeg)
 
 #### システム化を考える
+
+メッセージングFAB  
+メディア・チャネル　　
+顧客データ　　
+
